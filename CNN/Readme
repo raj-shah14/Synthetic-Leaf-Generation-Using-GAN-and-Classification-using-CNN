@@ -1,1 +1,8 @@
+Classification of Images using CNN
 
+We trained our CNN model(alexnet) on original samples images and tested its accuracy on GAN generated images.
+Two types of GAN generated output images were classified:
+1) Images generated with just border outline label.
+2) Images generated with border and veins label. 
+
+Classification Accuracy for just the border outline was observed to be better
