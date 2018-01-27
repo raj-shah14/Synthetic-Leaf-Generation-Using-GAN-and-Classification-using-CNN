@@ -1,1 +1,10 @@
+GAN for generation of Leaves
 
+Two GAN networks were trained to generate the synthetic leaves.
+First Network:
+This network used just the outline border label along with original image to generate leaves. The shape of recostructed image was as good as the input image, 
+but the veins of the leaves were not as the input
+
+Second Network:
+This network used the outline border as well as the veins of the leaves as label along with original image to generate leaves. The shape and texture was almost as good as the
+origibal input image.
