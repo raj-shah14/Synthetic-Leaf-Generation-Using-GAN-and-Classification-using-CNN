@@ -8,6 +8,7 @@ Two GAN networks for Synthetic Leaf Generation and Classification of those synth
 ## Architecture
 ![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/architecture.jpg)
 
+## Steps
 ### Step 1. Vein detection     (Data Pre-processing)
 ![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/preprocessing.jpg)
 
@@ -15,4 +16,5 @@ Two GAN networks for Synthetic Leaf Generation and Classification of those synth
 ![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/maple.jpg)![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/magnolia.jpg)![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/elm.jpg)![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/oak.jpg)![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/pine.jpg)
 
 ### Step 3. CNN                (Classification using Alexnet)
-
+### Accuracy
+![alt text](https://github.com/raj-shah14/Synthetic-Leaf-Generation-Using-GAN-and-Classification-using-CNN/blob/master/accuracy.jpg)
